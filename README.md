@@ -3,7 +3,7 @@
 For the paper **"Scan-Aware Mamba for Fine-grained Type-B Aortic Dissection Segmentation with Quantitative Anatomical Assessment"**
 
 <p align="center">
-  <img src="framework.png" width="95%">
+  <img src="TBAD.pdf" width="95%">
 </p>
 
 ## Main Developers
