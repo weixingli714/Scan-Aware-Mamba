@@ -16,14 +16,16 @@ The proposed **Scan-Aware Mamba** follows a U-shaped 3D segmentation architectur
 
 ## Main Developers
 
-- **Weixing Li**<sup>1</sup>
-- **Yu Sun**<sup>1,2</sup>
-- **Wei Qian**<sup>1</sup>
-- **Libo Zhang**<sup>2</sup>
-- **Shouliang Qi**<sup>1</sup>
+- **Weixing Li**<sup>1,2</sup>
+- **Yu Sun**<sup>1,2,3</sup>
+- **Wei Qian**<sup>1,2</sup>
+- **Libo Zhang**<sup>3,4</sup>
+- **Shouliang Qi**<sup>1,2</sup>
 
-<sup>1</sup> College of Medicine and Biological Information Engineering, Northeastern University, Shenyang, China \\
-<sup>2</sup> Department of Radiology, General Hospital of Northern Theater Command, Shenyang, China
+<sup>1</sup> College of Medicine and Biological Information Engineering, Northeastern University, Shenyang, China <br/>
+<sup>2</sup> Key Laboratory of Intelligent Computing in Medical Image, Ministry of Education, Northeastern University, Shenyang, China <br/>
+<sup>3</sup> Department of Radiology, General Hospital of Northern Theater Command, Shenyang, China <br/>
+<sup>4</sup> Key Laboratory of Cardiovascular Imaging and Research of Liaoning Province, Shenyang, China <br/>
 
 ## License
 
