@@ -22,7 +22,7 @@ The proposed **Scan-Aware Mamba** follows a U-shaped 3D segmentation architectur
 - **Libo Zhang**<sup>2</sup>
 - **Shouliang Qi**<sup>1</sup>
 
-<sup>1</sup> College of Medicine and Biological Information Engineering, Northeastern University, Shenyang, China
+<sup>1</sup> College of Medicine and Biological Information Engineering, Northeastern University, Shenyang, China \\
 <sup>2</sup> Department of Radiology, General Hospital of Northern Theater Command, Shenyang, China
 
 ## License
