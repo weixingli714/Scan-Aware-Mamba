@@ -23,6 +23,8 @@ The proposed **Scan-Aware Mamba** follows a U-shaped 3D segmentation architectur
 All experiments are implemented within the **nnUNetv2** framework, which provides a unified pipeline for preprocessing, data loading, training, inference, and postprocessing. To ensure consistent experimental settings, the proposed method, comparison methods, and ablation variants are organized as **nnUNetv2 trainer variants** whenever applicable. For architectures available in **MONAI**, the official network implementations are used as the basis for re-implementation and evaluation.
 This design keeps preprocessing, optimization, inference, and evaluation procedures consistent across different methods, while allowing the architectural components of **SAMamba**, **SAG**, and **VCAF** to be evaluated within the same training framework.
 
+This repository is still being updated.
+
 
 ## Main Developers
 
