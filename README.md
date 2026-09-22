@@ -17,7 +17,7 @@ The proposed **Scan-Aware Mamba** follows a U-shaped 3D segmentation architectur
 ## Main Developers
 
 - **Weixing Li**<sup>1,2</sup>
-- **Yu Sun**<sup>1,2,3</sup>
+- **Yu Sun**<sup>1,3,4</sup>
 - **Wei Qian**<sup>1,2</sup>
 - **Libo Zhang**<sup>3,4</sup>
 - **Shouliang Qi**<sup>1,2</sup>
