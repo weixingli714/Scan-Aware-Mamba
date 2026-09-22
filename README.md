@@ -7,7 +7,7 @@ To support fine-grained TBAD segmentation, we construct **FineTBAD**, a multi-so
 </p>
 
 
-### Scan-Aware Mamba
+### Scan-Aware Mamba (SAMamba)
 The proposed **Scan-Aware Mamba** follows a U-shaped 3D segmentation architecture for fine-grained TBAD analysis. The encoder combines convolutional feature extraction with **Scan-Aware Mamba (SAMamba) blocks**, where **Multi-view Scanning (MvS)** captures complementary anatomical context from different orthogonal views and the **Scan-Aware Gate (SAG)** adaptively integrates the resulting representations. In the decoder, the proposed **Vascular Cross-scale Attention Fusion (VCAF)** module aligns and fuses multi-scale encoder features to improve the reconstruction of vascular structures with substantial scale variation.
 <p align="center">
   <img src="assets/1.png" width="95%">
